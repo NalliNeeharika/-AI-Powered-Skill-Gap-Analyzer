@@ -1,0 +1,11 @@
+streamlit
+pymupdf
+python-docx
+pandas
+spacy
+sentence-transformers
+plotly
+streamlit-lottie
+requests
+# For PDF report generation later
+fpdf
